@@ -14,7 +14,7 @@
   > https://www.despegar.com.ar/
 
 --- LISTADO DEL GRUPO Y DESCRIPCIÓN: ---
-  1. Eiras, Sebastian >
+  1. Eiras, Sebastian > 22 años de edad. Nacido en Neuquen pero vivo en Buenos Aires, Belgrano actualmente. Estudiante de Programación Web Full Stack.
   2. Gervasoni, Federico > 34 años de edad. Radicado en la Ciudad de Santa Fe. Estudiante (eterno) de Lic. en Administración de Empresas y Músico. Empleado Aministrativo de la Provincia de Santa Fe.
   3. Ladetto, Emilio > 47 años de edad. Residencia en Tucumán. Empleado administrativo contable.
   4. Lopez Viel, Santiago > 21 años de edad. Radicado en la Ciudad de Córdoba. Estudiante de Programación Web Full Stack.
